@@ -19,6 +19,6 @@
 
 如你所见，我是一个无聊的人。
 
-所以，很高兴认识你。
+所以，很高兴认识你！
 
 Email: coin.chiang@outlook.com
