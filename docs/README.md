@@ -1,3 +1,3 @@
 # Royal Never Give up
 
-![RNG](./RNG赛程)
+![RNG](./RNG赛程.jpg)
