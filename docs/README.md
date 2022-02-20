@@ -2,6 +2,8 @@
 
 > the cranberries
 
+![the cranberries](media/thecranberries.jpg)
+
 Oh, my life
 
 Is changing everyday
