@@ -5,6 +5,6 @@
 # Xanadu
 
 - take what you need
-- be your own way
+- be	on your way
 
 [Get Started](README.md)
